@@ -1,6 +1,6 @@
-# Prime_Choice
+# Prime_Choice_DeveloperPack
 
-### How To Run Primechoice 
+### How To Run Primechoice DeveloperPack?
 
 To run the webserver, you must have installed Python on your PC. After downloading the package, follow the steps below:
 
